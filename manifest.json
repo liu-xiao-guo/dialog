@@ -1,0 +1,17 @@
+{
+    "name": "dialog.liu-xiao-guo",
+    "description": "description of dialog",
+    "architecture": "all",
+    "title": "dialog",
+    "hooks": {
+        "dialog": {
+            "apparmor": "dialog.apparmor",
+            "desktop":  "dialog.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

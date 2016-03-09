@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=dialog
+Exec=qmlscene $@ Main.qml
+Icon=dialog.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
